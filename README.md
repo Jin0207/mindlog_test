@@ -1,1 +1,0 @@
-# mindlog_test

@@ -1,0 +1,8 @@
+{
+    "compileOptions": {
+        "strict": true
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
