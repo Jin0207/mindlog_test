@@ -6,6 +6,6 @@ mongoose.connect('mongodb://localhost:27017/test',{
 
 const db = mongoose.connection;
 db.on('error', console.error.bind(console, 'Connection Error'));
-db.once('open', function callback(){
+db.once('open', () => {
     console.log('mongo db is connected');
 });
