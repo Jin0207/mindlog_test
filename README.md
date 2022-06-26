@@ -2,6 +2,7 @@
 
 마인드로그는 [네이버 자바스크립트 코딩컨벤션](https://github.com/naver/eslint-config-naver/blob/master/README.md)을 지원하는 eslint 룰 셋을 사용합니다
 
+- [자바스크립트 스타일 가이드](https://github.com/Jin0207/mindlog_test/blob/main/STYLE_GUIDE.md)
 
 ## Install
 ```
